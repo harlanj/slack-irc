@@ -1,5 +1,5 @@
 {
-  "name": "slack-irc",
+  "name": "slack-irc-plus",
   "version": "3.3.3",
   "description": "Connects IRC and Slack channels by sending messages back and forth.",
   "keywords": [

@@ -1,4 +1,4 @@
-# slack-irc [![Build status](https://ci.frigg.io/badges/ekmartin/slack-irc/)](https://ci.frigg.io/ekmartin/slack-irc/last/) [![Coverage status](https://ci.frigg.io/badges/coverage/ekmartin/slack-irc/)](https://ci.frigg.io/ekmartin/slack-irc/last/)
+# slack-irc [![Build status](https://ci.frigg.io/badges/ekmartin/slack-irc/)](https://ci.frigg.io/ekmartin/slack-irc/last/) [ ![Codeship Status for harlanj/slack-irc-plus](https://codeship.com/projects/a3a4d700-e226-0132-eaa0-4ea0dd54b93d/status?branch=master)](https://codeship.com/projects/81411)
 
 > Connects Slack and IRC channels by sending messages back and forth. Read more [here](https://ekmartin.com/2015/slack-irc/).
 

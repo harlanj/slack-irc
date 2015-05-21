@@ -12,20 +12,16 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ekmartin/slack-irc.git"
+    "url": "git@github.com:harlanj/slack-irc-plus.git"
   },
   "bugs": {
-    "url": "https://github.com/ekmartin/slack-irc/issues"
+    "url": "https://github.com/harlanj/slack-irc-plus/issues"
   },
   "scripts": {
-    "start": "node index.js",
     "test": "make test"
   },
-  "bin": {
-    "slack-irc": "./index.js"
-  },
   "author": {
-    "name": "Martin Ek <mail@ekmartin.no>"
+    "name": "Jeremiah Harlan <jeremiah.harlan@gmail.com>"
   },
   "license": "MIT",
   "dependencies": {

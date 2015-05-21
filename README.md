@@ -10,8 +10,8 @@
 Simply require the module and pass in a config in JSON format
 ```javascript
 In the repository folder:
-var slack-irc = require('slack-irc-plus');
-slack-irc(configuration);
+var slackIrc = require('slack-irc-plus');
+slackIrc(configuration);
 ```
 
 ## Configuration

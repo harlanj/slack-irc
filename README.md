@@ -6,18 +6,12 @@
 ![Slack IRC](http://i.imgur.com/58H6HgO.gif)
 
 ## Installation and usage
-Either by installing through npm:
-```bash
-$ npm install -g slack-irc
-$ slack-irc --config /path/to/config.json
-```
 
-or by cloning the repository:
-
-```bash
+Simply require the module and pass in a config in JSON format
+```javascript
 In the repository folder:
-$ npm install
-$ node index.js --config /path/to/config.json
+var slack-irc = require('slack-irc-plus');
+slack-irc(configuration);
 ```
 
 ## Configuration
